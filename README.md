@@ -1,4 +1,4 @@
-![progress-banner](https://codecrafters.io/landing/images/default_progress_banners/redis.png)
+[![progress-banner](https://app.codecrafters.io/progress/redis/58eea4a7-fc41-4c86-9088-12818ec6af48)](https://app.codecrafters.io/users/hioop)
 
 This is a starting point for PHP solutions to the
 ["Build Your Own Redis" Challenge](https://codecrafters.io/challenges/redis).
